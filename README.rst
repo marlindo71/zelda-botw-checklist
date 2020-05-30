@@ -8,11 +8,11 @@ Zelda BOTW Checklist is a python program tha generates quests checklist of Zelda
 
 Basic Usage
 ----------
-
+::
     zelda-botw-checklist game_data.sav
 
 Savegame file must always be specified. 
-Outputile is optional. Default output file is Zelda BOTW Checklist.xslx
+Outputile is optional. Default output file is Zelda BOTW Checklist.xslx::
 
     zelda-botw-checklist game_data.sav Checklist_File
 
