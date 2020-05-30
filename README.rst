@@ -1,14 +1,16 @@
-=============
+=====================
 Zelda BOTW Checklist
-=============
+=====================
 
 Zelda BOTW Checklist is a python program tha generates quests checklist of Zelda Breath of The Wild game from savegame file.
 
 .. image:: docs/Example_1.PNG
 
 Basic Usage
-----------
-::
+----------------------
+
+Savegame file must always be specified::
+
     zelda-botw-checklist game_data.sav
 
 Savegame file must always be specified. 
