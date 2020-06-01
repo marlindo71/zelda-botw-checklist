@@ -28,7 +28,7 @@ You must have ``git`` e ``pip`` installed in order to download the repo and inst
 
 Clone repo::
 
-    git clone git@github.com:marlindo71/zelda-botw-checklist.git
+    git clone https://github.com/marlindo71/zelda-botw-checklist
 
 Go to cloned repo folder and install dependencies with ``pip``::
 
